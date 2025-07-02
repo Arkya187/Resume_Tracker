@@ -19,13 +19,10 @@ A Natural Language Processing (NLP) web application built with Streamlit that cl
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home Page](home_page.png)
+![Home Page](/home.png)
 
-### Upload Resume
-![Upload Resume](images/upload_resume.png)
-
-### Classification Result
-![Classification Result](images/classification_result.png)
+### Uploading Resume and Classification Result
+![Uploading Resume ](/upload.png)
 
 ---
 
