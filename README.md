@@ -68,10 +68,9 @@ Resume_Tracker/
 ├── tfidf.pkl
 ├── requirements.txt
 ├── README.md
-└── images/
-    ├── home_page.png
-    ├── upload_resume.png
-    └── classification_result.png
+├── home.png
+└── upload.png
+
 ```
 
 ---
